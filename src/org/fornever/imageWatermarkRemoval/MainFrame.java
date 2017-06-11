@@ -86,7 +86,7 @@ public class MainFrame extends JFrame {
 							return false;
 					}
 				});
-				if (files != null) {
+				if (files != null && files.length > 0) {
 					try {
 						for (File fs : files) {
 							rewriter.unMarkImage(fs.getAbsolutePath());
