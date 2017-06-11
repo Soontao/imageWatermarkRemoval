@@ -30,7 +30,7 @@ select a directory
 
 ![](/screenshots/message.png)
 
-a icons in the directory will be processed
+all icons in the directory will be processed
 
 </center>
 
